@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Winner%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Android&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Rakesh%20Meena%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Android&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ```kotlin
 data class Engineer(
-    val name: String = "Winner",
+    val name: String = "Rakesh Meena",
     val location: String = "Toronto, Canada 🇨🇦",
     val currentRole: String = "Engineer @ DoorDash",
     val previously: List<String> = listOf("LinkedIn", "Paytm Money", "Kuliza"),
