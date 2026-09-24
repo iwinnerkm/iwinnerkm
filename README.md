@@ -13,11 +13,9 @@
 
 ## 🧭 The Journey
 
-<a href="https://iwinnerkm.github.io/#ch1"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch1.png" alt="01 · The Origins — born in Sawai Madhopur, studied in Kota" width="100%" /></a>
-<a href="https://iwinnerkm.github.io/#ch2"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch2.png" alt="02 · The Foundation — IIIT Allahabad, B.Tech Information Technology" width="100%" /></a>
-<a href="https://iwinnerkm.github.io/#ch3"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch3.png" alt="03 · The Bangalore Hustle — Kuliza, Paytm Money, LinkedIn" width="100%" /></a>
-<a href="https://iwinnerkm.github.io/#ch4"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch4.png" alt="04 · The Toronto Leap — DoorDash, Android team lead" width="100%" /></a>
-<a href="https://iwinnerkm.github.io/#ch5"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch5.png" alt="05 · The West Coast AI Era — Pinterest, League" width="100%" /></a>
+<a href="https://iwinnerkm.github.io/#ch1"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch1.png" alt="01 · The Bangalore Hustle — Paytm Money, LinkedIn" width="100%" /></a>
+<a href="https://iwinnerkm.github.io/#ch2"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch2.png" alt="02 · The Toronto Leap — DoorDash, Android team lead" width="100%" /></a>
+<a href="https://iwinnerkm.github.io/#ch3"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch3.png" alt="03 · The West Coast AI Era — Pinterest, League" width="100%" /></a>
 
 ---
 

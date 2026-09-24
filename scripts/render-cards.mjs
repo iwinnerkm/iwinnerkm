@@ -6,7 +6,7 @@ import { mkdirSync, rmSync } from 'node:fs';
 import { resolve, join } from 'node:path';
 
 const [site = 'site/index.html', out = 'dist'] = process.argv.slice(2);
-const SECTIONS = ['hero', 'ch1', 'ch2', 'ch3', 'ch4', 'ch5'];
+const SECTIONS = ['hero', 'ch1', 'ch2', 'ch3'];
 const ANIMATED = new Set(['hero']);
 const FPS = 12, SECONDS = 4, WIDTH = 960;
 
