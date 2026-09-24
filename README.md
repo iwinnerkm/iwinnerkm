@@ -1,42 +1,23 @@
-<!-- Header -->
+<!-- Images are rendered from site/index.html by .github/workflows/site-cards.yml -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Rakesh%20Meena%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Android&descAlignY=58&descSize=18" alt="header" />
+  <a href="https://iwinnerkm.github.io/"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/hero.gif" alt="Rakesh Meena — One continuous line, Sawai Madhopur → Vancouver" width="100%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/iwinnerkm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&width=620&lines=Engineer+%40+DoorDash+%F0%9F%9A%80;Ex-LinkedIn+%E2%80%A2+Ex-Paytm+Money;Kotlin+%2B+Java+%2B+Microservices+%E2%98%95;Android+%26+Flutter+enthusiast+%F0%9F%93%B1;Always+up+for+a+DSA+discussion+%F0%9F%A7%A9" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
+  <a href="https://iwinnerkm.github.io/"><img src="https://img.shields.io/badge/The_Journey-Visit_the_site-0B0A09?style=for-the-badge&labelColor=E0703A" alt="Visit the site" /></a>
   <a href="https://www.linkedin.com/in/winnerkm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/iwinnerkm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=iwinnerkm&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iwinnerkm&style=for-the-badge&color=5CF0D2&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
+## 🧭 The Journey
 
-```kotlin
-data class Engineer(
-    val name: String = "Rakesh Meena",
-    val location: String = "Toronto, Canada 🇨🇦",
-    val currentRole: String = "Engineer @ DoorDash",
-    val previously: List<String> = listOf("LinkedIn", "Paytm Money", "Kuliza"),
-    val focus: List<String> = listOf("Backend", "Microservices", "Android"),
-    val learning: List<String> = listOf("Flutter", "Data Structures & Algorithms"),
-    val lookingFor: String = "Android open-source projects to collaborate on 🤝",
-    val funFact: String = "I think in Kotlin and dream in Kafka topics ⚡"
-)
-```
-
-- 🔭 Building scalable backend systems at **DoorDash**
-- 🌱 Currently learning **Android, Flutter & Data Structures**
-- 💞️ Looking to collaborate on **Android open-source** projects
-- 💬 Ask me about **Kotlin, Java, microservices, Kafka, Android**
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/winnerkm)**
+<a href="https://iwinnerkm.github.io/#ch1"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch1.png" alt="01 · The Origins — born in Sawai Madhopur, studied in Kota" width="100%" /></a>
+<a href="https://iwinnerkm.github.io/#ch2"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch2.png" alt="02 · The Foundation — IIIT Allahabad, B.Tech Information Technology" width="100%" /></a>
+<a href="https://iwinnerkm.github.io/#ch3"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch3.png" alt="03 · The Bangalore Hustle — Kuliza, Paytm Money, LinkedIn" width="100%" /></a>
+<a href="https://iwinnerkm.github.io/#ch4"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch4.png" alt="04 · The Toronto Leap — DoorDash, Android team lead" width="100%" /></a>
+<a href="https://iwinnerkm.github.io/#ch5"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/ch5.png" alt="05 · The West Coast AI Era — Pinterest, League" width="100%" /></a>
 
 ---
 
@@ -47,18 +28,6 @@ data class Engineer(
     <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,spring,kafka,redis,aws,kubernetes,docker,githubactions,gradle,postgres,git,linux&perline=8" alt="Tech stack" />
   </a>
 </p>
-
----
-
-## 💼 Experience
-
-| | Role | Company | When |
-|:-:|---|---|---|
-| <img src="https://raw.githubusercontent.com/iwinnerkm/portfolio/main/res/dd.png" width="32" /> | **Engineer** | DoorDash · Toronto | Dec 2021 – Present |
-| <img src="https://raw.githubusercontent.com/iwinnerkm/portfolio/main/res/in.png" width="32" /> | **Software Engineer** | LinkedIn · Bengaluru | Apr 2020 – Oct 2021 |
-| <img src="https://raw.githubusercontent.com/iwinnerkm/portfolio/main/res/money.png" width="32" /> | **Senior Software Engineer** | Paytm Money · Bengaluru | Apr 2019 – Feb 2020 |
-| <img src="https://raw.githubusercontent.com/iwinnerkm/portfolio/main/res/money.png" width="32" /> | **Software Engineer** | Paytm Money · Bengaluru | Dec 2017 – Mar 2019 |
-| <img src="https://raw.githubusercontent.com/iwinnerkm/portfolio/main/res/service.png" width="32" /> | **Android Engineer** | Kuliza · Bengaluru | Jan 2016 – Nov 2017 |
 
 ---
 

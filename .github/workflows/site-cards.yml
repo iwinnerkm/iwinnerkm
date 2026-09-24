@@ -1,0 +1,39 @@
+name: Render site cards
+
+# Renders site/index.html into the images shown in README.md
+# (animated hero + one card per chapter) and publishes them to the `cards` branch.
+on:
+  push:
+    branches: [main]
+    paths: [site/**, scripts/render-cards.mjs, .github/workflows/site-cards.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Playwright and ffmpeg
+        run: |
+          npm install --no-save playwright@1
+          npx playwright install --with-deps chromium
+          sudo apt-get install -y --no-install-recommends ffmpeg
+
+      - name: Render
+        run: node scripts/render-cards.mjs site/index.html dist
+
+      - name: Push to cards branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: cards
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
