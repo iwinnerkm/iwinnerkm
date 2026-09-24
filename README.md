@@ -1,6 +1,6 @@
 <!-- Images are rendered from iwinnerkm/iwinnerkm.github.io by .github/workflows/site-cards.yml -->
 <p align="center">
-  <a href="https://iwinnerkm.github.io/"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/hero.gif" alt="Rakesh Meena — One continuous line, Sawai Madhopur → Vancouver" width="100%" /></a>
+  <a href="https://iwinnerkm.github.io/"><img src="https://raw.githubusercontent.com/iwinnerkm/iwinnerkm/cards/hero.gif" alt="Rakesh Meena — Bengaluru → Toronto → Vancouver" width="100%" /></a>
 </p>
 
 <p align="center">
