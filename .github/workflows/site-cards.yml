@@ -1,11 +1,14 @@
 name: Render site cards
 
-# Renders site/index.html into the images shown in README.md
-# (animated hero + one card per chapter) and publishes them to the `cards` branch.
+# Renders the live site (iwinnerkm/iwinnerkm.github.io) into the images shown
+# in README.md (animated hero + one card per chapter) and publishes them to the
+# `cards` branch. Runs daily to pick up site changes; run it manually to refresh now.
 on:
   push:
     branches: [main]
-    paths: [site/**, scripts/render-cards.mjs, .github/workflows/site-cards.yml]
+    paths: [scripts/render-cards.mjs, .github/workflows/site-cards.yml]
+  schedule:
+    - cron: "30 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,6 +19,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Check out the site
+        uses: actions/checkout@v4
+        with:
+          repository: iwinnerkm/iwinnerkm.github.io
+          path: site
 
       - uses: actions/setup-node@v4
         with:
